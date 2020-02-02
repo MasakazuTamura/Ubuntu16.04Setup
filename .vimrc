@@ -50,3 +50,5 @@ augroup END
 set whichwrap=b,s,[,],<,>
 set backspace=indent,eol,start
 set scrolloff=3
+inoremap <silent> jj <ESC>
+inoremap <silent> っｊ <Esc>
